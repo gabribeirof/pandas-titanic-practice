@@ -1,12 +1,12 @@
-# 
+ 
 venv/
 env/
 __pycache__/
 
-# Checkpoints do Jupyter Notebook
+
 .ipynb_checkpoints/
 
-# Datasets e arquivos pesados (Boas práticas)
+
 *.csv
 *.zip
 *.parquet
